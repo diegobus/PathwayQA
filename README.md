@@ -1,3 +1,3 @@
 # PathwayQA
-Benchmark QA dataset generation from Reactome and Evaluation with 9 LLMs
+Benchmark QA dataset generation from Reactome and Evaluation with 9 LLMs <br>
 Data found on Zenodo
