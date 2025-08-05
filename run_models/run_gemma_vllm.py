@@ -4,11 +4,6 @@ import argparse
 import pandas as pd
 import os
 
-os.environ["XDG_CACHE_HOME"] = "/scratch/groups/rbaltman/gnayar/.cache"
-os.environ["TRITON_DISABLE_CACHING"] = "1"
-#os.environ["VLLM_ATTENTION_BACKEND"] = "FLASHINFER"
-#print("Attention backend:", os.environ.get("VLLM_ATTENTION_BACKEND"))
-
 
 from vllm import LLM, SamplingParams
 
