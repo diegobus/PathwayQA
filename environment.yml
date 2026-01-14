@@ -1,4 +1,4 @@
-name: llm_kristy
+name: llm
 channels:
   - conda-forge
   - defaults
@@ -144,4 +144,3 @@ dependencies:
       - yarl==1.20.1
       - zipp==3.23.0
       - zmq==0.0.0
-prefix: /oak/stanford/groups/rbaltman/gnayar/software/miniconda3/envs/llm_kristy
