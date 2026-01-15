@@ -1,0 +1,16 @@
+{
+  "input_csv": "data/prompts/reaction_prompts_answers_zeroShot.csv",
+  "output_dir": "data/filtered",
+  "k": 3,
+  "under_purity": 0.7,
+  "well_purity": 0.1,
+  "drop_no_protein": false,
+  "n_total_rows": 14665,
+  "n_rows_with_protein": 13865,
+  "n_rows_no_protein": 800,
+  "n_unique_proteins": 10023,
+  "n_under_observed": 2337,
+  "n_well_observed": 9800,
+  "n_overlap_under_and_well": 0,
+  "n_unassigned_with_protein": 1728
+}
